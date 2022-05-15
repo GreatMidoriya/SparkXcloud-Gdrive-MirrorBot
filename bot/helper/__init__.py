@@ -1,4 +1,4 @@
-import heroku3
+import heroku
 
 from functools import wraps
 from bot import HEROKU_API_KEY, HEROKU_APP_NAME
